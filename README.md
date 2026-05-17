@@ -176,3 +176,4 @@ Used for:
 
 This project is open-source and free to use.
 
+<img width="641" height="703" alt="image" src="https://github.com/user-attachments/assets/a719a8a8-210b-4cce-8900-740ebf77bc17" />
